@@ -1,0 +1,1627 @@
+{
+    "totalResponses": 52,
+    "responses": [
+        {
+            "timestamp": "2025-12-03 15:06:25",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We don't have one",
+                "q5": "Never",
+                "q6": "Yes, many",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:08:03",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Rarely",
+                "q6": "Yes, many",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Not very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:09:57",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Never",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "I think I know one",
+                "q11": "No, we haven't talked about it",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Heavy Rain\/Floods",
+                    "Storm Surge",
+                    "Landslides"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:14:42",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, many",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough information",
+                "q16": "Important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Fire after disaster"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:16:34",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, many",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:19:01",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Sometimes",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news",
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Heavy Rain\/Floods",
+                    "Storm Surge"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:31:37",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Rarely",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "I think I know one",
+                "q11": "Yes, we have a clear plan",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:33:00",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Only once",
+                "q4": "Yes, it is complete",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Important",
+                "q17": "Not very good",
+                "q18": "Sometimes",
+                "q19": "3\u20137 days",
+                "q20": "Not very interested",
+                "q3": [
+                    "Family or friends"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:35:25",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Only once",
+                "q4": "We don't have one",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "I think I know one",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Barangay or LGU announcements"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:36:34",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Only once",
+                "q4": "We have some items",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I am not prepared",
+                "q14": "Not enough information",
+                "q16": "Important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Barangay or LGU announcements"
+                ],
+                "q13": [
+                    "Fire after disaster"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:37:45",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Only once",
+                "q4": "Yes, it is complete",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Barangay or LGU announcements"
+                ],
+                "q13": [
+                    "Landslides"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:39:01",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, many",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:40:18",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "None",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "I think I know one",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "No clear plan",
+                "q16": "A little important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "1\u20133 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Barangay or LGU announcements"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:41:32",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We don't have one",
+                "q5": "Never",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I am not prepared",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Barangay or LGU announcements"
+                ],
+                "q13": [
+                    "Tsunami"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:43:33",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "Yes, I have training and supplies",
+                "q14": "No clear plan",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "More than 7 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Barangay or LGU announcements",
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Landslides",
+                    "Earthquake",
+                    "Tsunami",
+                    "Fire after disaster"
+                ],
+                "q15": [
+                    "Local government",
+                    "National government",
+                    "Schools",
+                    "Community groups"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:45:40",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Never",
+                "q6": "Yes, many",
+                "q7": "Yes, big damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "I think I know one",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough supplies or money",
+                "q16": "A little important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Barangay or LGU announcements"
+                ],
+                "q13": [
+                    "Heavy Rain\/Floods"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:47:16",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, many",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "Less than 1 day",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Earthquake",
+                    "Tsunami"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:48:33",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, many",
+                "q7": "No damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Tsunami"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:49:55",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Landslides",
+                    "Earthquake",
+                    "Tsunami"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:51:24",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, many",
+                "q7": "No damage",
+                "q8": "Very sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "No, we haven't talked about it",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "Less than 1 day",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Earthquake",
+                    "Tsunami",
+                    "Fire after disaster"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:52:46",
+            "answers": {
+                "q1": "I don't know much",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Not very good",
+                "q18": "Sometimes",
+                "q19": "More than 7 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Heavy Rain\/Floods",
+                    "Landslides",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:53:57",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "No damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "No, I don't know",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "1\u20133 days",
+                "q20": "A little interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Tsunami"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:55:27",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "No, I don't know",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "1\u20133 days",
+                "q20": "A little interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Heavy Rain\/Floods",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:56:38",
+            "answers": {
+                "q1": "I know a lot",
+                "q4": "We have some items",
+                "q5": "Rarely",
+                "q6": "Yes, many",
+                "q7": "No damage",
+                "q8": "A little sure",
+                "q9": "No, I don't know",
+                "q10": "No, I don't know",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 15:58:32",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "No, never",
+                "q4": "We have some items",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, many",
+                "q7": "No damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I have a first aid kit but no training",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "1\u20133 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Heavy Rain\/Floods",
+                    "Earthquake",
+                    "Fire after disaster"
+                ],
+                "q15": [
+                    "Local government",
+                    "National government",
+                    "Schools",
+                    "Community groups"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:00:26",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We don't have one",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I am not prepared",
+                "q14": "No clear plan",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Heavy Rain\/Floods"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:01:33",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Rarely",
+                "q6": "Yes, many",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "3\u20137 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Landslides",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:04:16",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Rarely",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "1\u20133 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Landslides",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:05:33",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Never",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Landslides",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:07:05",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Rarely",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:08:16",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Rarely",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "I think I know one",
+                "q11": "No, we haven't talked about it",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "1\u20133 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Tsunami"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:09:38",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "No, never",
+                "q4": "We don't have one",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "None",
+                "q7": "Yes, big damage",
+                "q8": "A little sure",
+                "q9": "No, I don't know",
+                "q10": "No, I don't know",
+                "q11": "No, we haven't talked about it",
+                "q12": "I am not prepared",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "1\u20133 days",
+                "q20": "Not interested at all",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Heavy Rain\/Floods"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:11:01",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "No clear plan",
+                "q16": "A little important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Landslides",
+                    "Tsunami"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:12:12",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, big damage",
+                "q8": "Not sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q14": "Not enough information",
+                "q16": "Important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "1\u20133 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Barangay or LGU announcements"
+                ],
+                "q13": [
+                    "Tsunami"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:13:43",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, many",
+                "q7": "Yes, big damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:15:02",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "None",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "No, I don't know",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I have a first aid kit but no training",
+                "q14": "No clear plan",
+                "q16": "Important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "1\u20133 days",
+                "q20": "A little interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Tsunami"
+                ],
+                "q15": [
+                    "Schools"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:16:20",
+            "answers": {
+                "q1": "I don't know much",
+                "q2": "Only once",
+                "q4": "We have some items",
+                "q5": "Never",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "Not sure",
+                "q9": "I think I know",
+                "q10": "I think I know one",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "Less than 1 day",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Family or friends"
+                ],
+                "q13": [
+                    "Landslides"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:17:32",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, many",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "I think I know one",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:18:29",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I am not prepared",
+                "q14": "No clear plan",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Sometimes",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Heavy Rain\/Floods"
+                ],
+                "q15": [
+                    "Community groups"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:19:29",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "No clear plan",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "Less than 1 day",
+                "q20": "A little interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:21:03",
+            "answers": {
+                "q1": "I know a lot",
+                "q2": "Only once",
+                "q4": "We don't have one",
+                "q5": "Rarely",
+                "q6": "Yes, many",
+                "q7": "No damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "I think I know one",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Sometimes",
+                "q19": "More than 7 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)",
+                    "Heavy Rain\/Floods"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:22:11",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Only once",
+                "q4": "Yes, it is complete",
+                "q5": "Rarely",
+                "q6": "Yes, many",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I have a first aid kit but no training",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "3\u20137 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Family or friends"
+                ],
+                "q13": [
+                    "Heavy Rain\/Floods",
+                    "Landslides",
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:23:15",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We don't have one",
+                "q5": "Rarely",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "No, I don't know",
+                "q11": "No, we haven't talked about it",
+                "q12": "I am not prepared",
+                "q14": "Not enough information",
+                "q16": "Important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "1\u20133 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Family or friends"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:24:39",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We don't have one",
+                "q5": "Never",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I am not prepared",
+                "q14": "Not enough information",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "Less than 1 day",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:26:35",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "Yes, it is complete",
+                "q5": "Rarely",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "I think I know one",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough supplies or money",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:27:41",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Only once",
+                "q4": "We have some items",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "No damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "I have a first aid kit but no training",
+                "q14": "No clear plan",
+                "q16": "Important",
+                "q17": "A little good",
+                "q18": "Sometimes",
+                "q19": "1\u20133 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Tsunami"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:28:45",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "None",
+                "q7": "No damage",
+                "q8": "Not sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "No, we haven't talked about it",
+                "q12": "I have a first aid kit but no training",
+                "q14": "No clear plan",
+                "q16": "Very important",
+                "q17": "Very good",
+                "q18": "Sometimes",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "TV or radio"
+                ],
+                "q13": [
+                    "Strong Winds (Typhoon)"
+                ],
+                "q15": [
+                    "Community groups"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:29:54",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "Very sure",
+                "q9": "Yes, I know exactly where",
+                "q10": "Yes, I know a place",
+                "q11": "Yes, we have a clear plan",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough information",
+                "q16": "A little important",
+                "q17": "Very good",
+                "q18": "Yes, many times",
+                "q19": "Less than 1 day",
+                "q20": "A little interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "National government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:31:20",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Rarely",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "No, I don't know",
+                "q10": "No, I don't know",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "I am not prepared",
+                "q14": "Not enough supplies or money",
+                "q16": "Important",
+                "q17": "Very good",
+                "q18": "Never",
+                "q19": "More than 7 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Family or friends"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:32:17",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "No, never",
+                "q4": "Yes, it is complete",
+                "q5": "Regularly (every 3\u20136 months)",
+                "q6": "Yes, a few",
+                "q7": "No damage",
+                "q8": "Very sure",
+                "q9": "No, I don't know",
+                "q10": "I think I know one",
+                "q11": "Yes, we have a clear plan",
+                "q12": "Yes, I have training and supplies",
+                "q14": "No clear plan",
+                "q16": "Very important",
+                "q17": "A little good",
+                "q18": "Yes, many times",
+                "q19": "1\u20133 days",
+                "q20": "A little interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Earthquake"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:33:19",
+            "answers": {
+                "q1": "I know a little",
+                "q2": "Yes, many times",
+                "q4": "We have some items",
+                "q5": "Sometimes (every 6\u201312 months)",
+                "q6": "Yes, a few",
+                "q7": "Yes, small damage",
+                "q8": "A little sure",
+                "q9": "I think I know",
+                "q10": "Yes, I know a place",
+                "q11": "We talked about it, but we're not sure",
+                "q12": "Yes, I have training and supplies",
+                "q14": "Not enough supplies or money",
+                "q16": "Important",
+                "q17": "A little good",
+                "q18": "Sometimes",
+                "q19": "1\u20133 days",
+                "q20": "Yes, very interested",
+                "q3": [
+                    "Social media\/online news"
+                ],
+                "q13": [
+                    "Earthquake",
+                    "Tsunami"
+                ],
+                "q15": [
+                    "Local government"
+                ]
+            }
+        },
+        {
+            "timestamp": "2025-12-03 16:39:23",
+            "answers": []
+        }
+    ]
+}

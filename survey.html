@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disaster Preparedness Survey for Students</title>
+    <link rel="stylesheet" href="survey-style.css">
+</head>
+<body>
+    <div class="main-wrapper">
+        <header>
+            <h1>DISASTER PREPAREDNESS SURVEY FOR STUDENTS</h1>
+        </header>
+
+        <div class="split-container">
+            <!-- Left side: Survey Form -->
+            <div class="survey-column">
+                <h2 class="column-title">Survey Form</h2>
+                <form id="surveyForm">
+            <!-- Section A: General Awareness -->
+            <section class="survey-section">
+                <h2>A. General Awareness</h2>
+                
+                <div class="question">
+                    <p class="question-text">1. How well do you know about disasters?</p>
+                    <label><input type="radio" name="q1" value="I know a lot"> I know a lot</label>
+                    <label><input type="radio" name="q1" value="I know a little"> I know a little</label>
+                    <label><input type="radio" name="q1" value="I don't know much"> I don't know much</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">2. Have you ever joined school or community activities about disaster safety?</p>
+                    <label><input type="radio" name="q2" value="Yes, many times"> Yes, many times</label>
+                    <label><input type="radio" name="q2" value="Only once"> Only once</label>
+                    <label><input type="radio" name="q2" value="No, never"> No, never</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">3. Where do you usually hear news or warnings about typhoons, earthquakes, or other disasters?</p>
+                    <label><input type="checkbox" name="q3" value="Barangay or LGU announcements"> Barangay or LGU announcements</label>
+                    <label><input type="checkbox" name="q3" value="Social media/online news"> Social media/online news</label>
+                    <label><input type="checkbox" name="q3" value="TV or radio"> TV or radio</label>
+                    <label><input type="checkbox" name="q3" value="Family or friends"> Family or friends</label>
+                </div>
+            </section>
+
+            <!-- Section B: Home Preparedness -->
+            <section class="survey-section">
+                <h2>B. Home Preparedness</h2>
+                
+                <div class="question">
+                    <p class="question-text">4. Does your family have a "Go Bag" or emergency kit at home?</p>
+                    <label><input type="radio" name="q4" value="Yes, it is complete"> Yes, it is complete</label>
+                    <label><input type="radio" name="q4" value="We have some items"> We have some items</label>
+                    <label><input type="radio" name="q4" value="We don't have one"> We don't have one</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">5. How often does your family check or change emergency supplies (food, water, first aid kit)?</p>
+                    <label><input type="radio" name="q5" value="Regularly (every 3–6 months)"> Regularly (every 3–6 months)</label>
+                    <label><input type="radio" name="q5" value="Sometimes (every 6–12 months)"> Sometimes (every 6–12 months)</label>
+                    <label><input type="radio" name="q5" value="Rarely"> Rarely</label>
+                    <label><input type="radio" name="q5" value="Never"> Never</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">6. Does your house have things that help protect it from strong winds or floods?</p>
+                    <label><input type="radio" name="q6" value="Yes, many"> Yes, many</label>
+                    <label><input type="radio" name="q6" value="Yes, a few"> Yes, a few</label>
+                    <label><input type="radio" name="q6" value="None"> None</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">7. Have you or your family ever had your house damaged by a typhoon, earthquake, or other disasters?</p>
+                    <label><input type="radio" name="q7" value="Yes, big damage"> Yes, big damage</label>
+                    <label><input type="radio" name="q7" value="Yes, small damage"> Yes, small damage</label>
+                    <label><input type="radio" name="q7" value="No damage"> No damage</label>
+                </div>
+            </section>
+
+            <!-- Section C: Safety Knowledge -->
+            <section class="survey-section">
+                <h2>C. Safety Knowledge</h2>
+                
+                <div class="question">
+                    <p class="question-text">8. How sure are you that you know what to do during a typhoon, earthquake, or other disasters?</p>
+                    <label><input type="radio" name="q8" value="Very sure"> Very sure</label>
+                    <label><input type="radio" name="q8" value="A little sure"> A little sure</label>
+                    <label><input type="radio" name="q8" value="Not sure"> Not sure</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">9. Do you know where the evacuation center in your area is?</p>
+                    <label><input type="radio" name="q9" value="Yes, I know exactly where"> Yes, I know exactly where</label>
+                    <label><input type="radio" name="q9" value="I think I know"> I think I know</label>
+                    <label><input type="radio" name="q9" value="No, I don't know"> No, I don't know</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">10. Are you aware of any nearby safe places or higher ground you can go to during a disaster?</p>
+                    <label><input type="radio" name="q10" value="Yes, I know a place"> Yes, I know a place</label>
+                    <label><input type="radio" name="q10" value="I think I know one"> I think I know one</label>
+                    <label><input type="radio" name="q10" value="No, I don't know"> No, I don't know</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">11. Have you and your family talked about where to meet or how to contact each other during a disaster?</p>
+                    <label><input type="radio" name="q11" value="Yes, we have a clear plan"> Yes, we have a clear plan</label>
+                    <label><input type="radio" name="q11" value="We talked about it, but we're not sure"> We talked about it, but we're not sure</label>
+                    <label><input type="radio" name="q11" value="No, we haven't talked about it"> No, we haven't talked about it</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">12. Are you prepared to give basic first aid (like for small wounds) after a disaster?</p>
+                    <label><input type="radio" name="q12" value="Yes, I have training and supplies"> Yes, I have training and supplies</label>
+                    <label><input type="radio" name="q12" value="I have a first aid kit but no training"> I have a first aid kit but no training</label>
+                    <label><input type="radio" name="q12" value="I am not prepared"> I am not prepared</label>
+                </div>
+            </section>
+
+            <!-- Section D: Opinions and Concerns -->
+            <section class="survey-section">
+                <h2>D. Opinions and Concerns</h2>
+                
+                <div class="question">
+                    <p class="question-text">13. Which dangers worry you the most? (You can check more than one)</p>
+                    <label><input type="checkbox" name="q13" value="Strong Winds (Typhoon)"> Strong Winds (Typhoon)</label>
+                    <label><input type="checkbox" name="q13" value="Heavy Rain/Floods"> Heavy Rain/Floods</label>
+                    <label><input type="checkbox" name="q13" value="Storm Surge"> Storm Surge</label>
+                    <label><input type="checkbox" name="q13" value="Landslides"> Landslides</label>
+                    <label><input type="checkbox" name="q13" value="Earthquake"> Earthquake</label>
+                    <label><input type="checkbox" name="q13" value="Tsunami"> Tsunami</label>
+                    <label><input type="checkbox" name="q13" value="Fire after disaster"> Fire after disaster</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">14. What do you think is the hardest part about preparing for disasters?</p>
+                    <label><input type="radio" name="q14" value="Not enough information"> Not enough information</label>
+                    <label><input type="radio" name="q14" value="Not enough supplies or money"> Not enough supplies or money</label>
+                    <label><input type="radio" name="q14" value="No clear plan"> No clear plan</label>
+                    <label><input type="radio" name="q14_other" value="other"> Other: <input type="text" id="q14_other_text" placeholder="Specify..."></label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">15. Who do you think should teach and help the community prepare for disasters?</p>
+                    <label><input type="checkbox" name="q15" value="Local government"> Local government</label>
+                    <label><input type="checkbox" name="q15" value="National government"> National government</label>
+                    <label><input type="checkbox" name="q15" value="Schools"> Schools</label>
+                    <label><input type="checkbox" name="q15" value="Community groups"> Community groups</label>
+                    <label><input type="checkbox" name="q15_other" value="other"> Others: <input type="text" id="q15_other_text" placeholder="Specify..."></label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">16. How important is it for neighbors to help each other during disasters?</p>
+                    <label><input type="radio" name="q16" value="Very important"> Very important</label>
+                    <label><input type="radio" name="q16" value="Important"> Important</label>
+                    <label><input type="radio" name="q16" value="A little important"> A little important</label>
+                    <label><input type="radio" name="q16" value="Not important"> Not important</label>
+                </div>
+            </section>
+
+            <!-- Section E: Early Warning & Community Response -->
+            <section class="survey-section">
+                <h2>E. Early Warning & Community Response</h2>
+                
+                <div class="question">
+                    <p class="question-text">17. How good are the warning systems in your community?</p>
+                    <label><input type="radio" name="q17" value="Very good"> Very good</label>
+                    <label><input type="radio" name="q17" value="A little good"> A little good</label>
+                    <label><input type="radio" name="q17" value="Not very good"> Not very good</label>
+                    <label><input type="radio" name="q17" value="Not good at all"> Not good at all</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">18. Have you ever checked the Facebook page or website of your town's DRRMC for announcements?</p>
+                    <label><input type="radio" name="q18" value="Yes, many times"> Yes, many times</label>
+                    <label><input type="radio" name="q18" value="Sometimes"> Sometimes</label>
+                    <label><input type="radio" name="q18" value="Never"> Never</label>
+                </div>
+
+                <div class="question">
+                    <p class="question-text">19. If a big disaster happened today, how long do you think your family can manage without outside help?</p>
+                    <label><input type="radio" name="q19" value="Less than 1 day"> Less than 1 day</label>
+                    <label><input type="radio" name="q19" value="1–3 days"> 1–3 days</label>
+                    <label><input type="radio" name="q19" value="3–7 days"> 3–7 days</label>
+                    <label><input type="radio" name="q19" value="More than 7 days"> More than 7 days</label>
+                </div>
+            </section>
+
+            <!-- Section F: Future Participation -->
+            <section class="survey-section">
+                <h2>F. Future Participation</h2>
+                
+                <div class="question">
+                    <p class="question-text">20. Would you like to join disaster safety activities or training in the future?</p>
+                    <label><input type="radio" name="q20" value="Yes, very interested"> Yes, very interested</label>
+                    <label><input type="radio" name="q20" value="A little interested"> A little interested</label>
+                    <label><input type="radio" name="q20" value="Not very interested"> Not very interested</label>
+                    <label><input type="radio" name="q20" value="Not interested at all"> Not interested at all</label>
+                </div>
+            </section>
+
+            <div class="form-actions">
+                <button type="submit" class="btn-submit">Submit Response</button>
+                <button type="button" class="btn-reset" onclick="resetForm()">Clear Form</button>
+            </div>
+        </form>
+            </div>
+
+            <!-- Right side: Survey Results -->
+            <div class="results-column">
+                <h2 class="column-title">Survey Results</h2>
+                <div class="results-section" id="resultsSection">
+                    <p class="total-responses">Total Responses: <span id="totalResponses">0</span></p>
+                    <div class="results-actions">
+                        <button class="btn-export" onclick="exportResults()">Export CSV</button>
+                        <button class="btn-clear" onclick="clearAllData()">Clear Data</button>
+                    </div>
+                    <div id="resultsContainer" class="results-container show"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="survey-script.js"></script>
+</body>
+</html>
